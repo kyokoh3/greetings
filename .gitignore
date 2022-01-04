@@ -1,0 +1,10 @@
+.gitignore
+.idea/.gitignore
+.idea/0-20220103-git-learning.iml
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__
+scratch.py
+venv/
